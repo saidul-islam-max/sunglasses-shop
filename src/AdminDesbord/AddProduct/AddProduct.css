@@ -1,0 +1,9 @@
+.addService form input{
+    
+    margin: 10px;
+    padding: 5px;
+}
+.addService form textarea{
+    width: 100%;
+    height: 150px;
+}

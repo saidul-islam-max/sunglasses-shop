@@ -1,0 +1,15 @@
+.review input{
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    margin: 5px;
+    
+}
+.review  textarea{
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    margin: 5px;
+    border: none;
+    border-bottom: 5px solid black;
+}
